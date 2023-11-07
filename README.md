@@ -30,11 +30,12 @@
 # Chú ý: 
     + ls , mkdir.
 
-
 <Lệnh help>: $git help --all
 <Lệnh help>: $git commit -help
 <Lệnh tạo branch>: $git branch Tên nhánh
 <Lệnh chuyển nhánh>: $git checkout tên nhánh cụ thể
 <Lệnh tạo + chuyển>: $git checkout -b new branch tên nhánh
+<Lệnh hợp nhất nhánh>: $git merge <tên nhánh muốn gộp>
+<Lệnh xóa branch>: $git branch -d <Tên nhánh>
 
 
