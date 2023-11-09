@@ -39,4 +39,9 @@
 <Lệnh xóa branch>: $git branch -d <Tên nhánh>
 
 
+# GITHUD 
+1. Ket noi: $git remote add origin URL
+2. day nhanh len: $git push --set-upstream origin master
+
+
 
