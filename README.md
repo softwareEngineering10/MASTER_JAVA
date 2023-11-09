@@ -1,2 +1,3 @@
 # MASTER_JAVA
-Update code java
+# Up các bài code java
+# luyện tư duy lập trình
